@@ -3,7 +3,7 @@
 ## Ferramentas e Tecnologias:
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
 
-<img src="https://icongr.am/devicon/git-original-wordmark.svg?size=128&color=currentColor" width="40" height="40" />
+<img src="https://icongr.am/devicon/java-original.svg?size=148&color=currentColor"/>
 
           
  
