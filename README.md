@@ -7,7 +7,7 @@
           
 ## Graduação e Bootcamps:
 
-🎓Geração Brasil ✅. 🎓Ciência da Computação - FIT 🎓Oracle Next Education 
+🎓Generation Brasil ✅. 🎓Ciência da Computação - FIT 🎓Oracle Next Education 
 
 ## Contato:
 
