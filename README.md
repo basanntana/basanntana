@@ -7,7 +7,7 @@
           
 ## Graduação e Bootcamps:
 
-🎓Generation Brasil ✅. 🎓Ciência da Computação - FIT 🎓Oracle Next Education 
+🎓Desenvolvimento de Sistemas - ETEC Basilides de Godoy ✅. 🎓Generation Brasil ✅. 🎓Ciência da Computação - FIT 🎓Oracle Next Education 
 
 ## Contato:
 
