@@ -1,5 +1,9 @@
 ## Olá. Sou Bárbara Santana, estudante de ciência da computação com estudos direcionados para desenvolvimento Backend, tendo Java como linguagem principal. 
 
+### 🎓 Generation Brasil
+### 🎓 Ciência da Computação - Cursando
+### 🎓 Oracle Next Education - Cursando
+
 ## Ferramentas e Tecnologias:
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://devicon-website.vercel.app/api/spring/original.svg" width="40" height="40"/> </img> <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=75&color=currentColor"/>  <img src="https://devicon-website.vercel.app/api/html5/original.svg" width="40" height="40"/> <img src= "https://devicon-website.vercel.app/api/css3/original.svg" width="40" height="40"/> <img src="https://devicon-website.vercel.app/api/python/original.svg" width="40" height="40"/>
           
